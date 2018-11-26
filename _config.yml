@@ -6,8 +6,8 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Theatre Sound Paper Work & Document Library
-description: 'Theatre Sound Tech. & Tip Library' # write a nice description for your blog
+title: 또 다른 관심사
+description: '작고 사소한 기록들' # write a nice description for your blog
 baseurl: '' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site http://www.example.com
 # google_analytics: 'UA-XXXXXX-X'
