@@ -11,7 +11,7 @@ description: 'Theatre Sound Tech. & Tip Library' # write a nice description for 
 baseurl: '' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site http://www.example.com
 # google_analytics: 'UA-XXXXXX-X'
-twitter_username: 'twitter_username'
+twitter_username: 'idnine'
 
 # Build settings
 markdown: kramdown
