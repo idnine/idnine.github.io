@@ -10,6 +10,10 @@ title: 또 다른 관심사
 description: '작고 사소한 기록들' # write a nice description for your blog
 baseurl: '' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site http://www.example.com
+#disque
+disqus_url: https://disqus.com/by/idnine/
+disqus_id: idnine
+
 # google_analytics: 'UA-XXXXXX-X'
 twitter_username: 'idnine'
 
